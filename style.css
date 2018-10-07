@@ -1,0 +1,75 @@
+* { 
+  margin: 0;
+  padding: 0; 
+}
+
+body {
+  background: #f2f2f2;   
+}
+
+.content-wrapper {
+  width: 1024px;
+  margin: 0 auto; 
+  padding: 20px;
+}
+
+hr {
+  margin: 15px 0 5px;
+}
+
+header {
+  overflow: hidden;
+  margin-bottom: 50px;
+}
+
+.name {
+  color: 	#2F4F4F;  
+}
+
+.developer-position {
+  margin: 20px 0;
+}
+
+.info {
+  float: left;
+}
+
+.photo-block {
+  float: right;
+}
+
+.photo {
+  display: block;
+}
+
+.summary-heading {
+  color: 	#2F4F4F;
+}
+
+.skills-heading {
+  color: 	#2F4F4F;
+}
+
+section{
+  margin-bottom: 50px;
+}
+
+.list  {
+  list-style-position: inside;
+}
+
+.examples-heading {
+  color: 	#2F4F4F;  
+}
+
+.experience-heading {
+  color: 	#2F4F4F;  
+}
+
+.education-heading {
+  color: 	#2F4F4F;
+}
+
+.english-level-heading {
+  color: 	#2F4F4F;
+}
