@@ -22,6 +22,10 @@ header {
   margin-bottom: 50px;
 }
 
+.name {
+  color: 	#2F4F4F;  
+}
+
 .developer-position {
   margin: 20px 0;
 }
@@ -50,7 +54,7 @@ section{
   margin-bottom: 50px;
 }
 
-.skills-list  {
+.list  {
   list-style-position: inside;
 }
 
